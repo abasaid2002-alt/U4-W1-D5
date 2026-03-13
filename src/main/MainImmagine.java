@@ -2,7 +2,7 @@ package main;
 
 import elementi.Immagine;
 
-public class Main {
+public class MainImmagine {
     public static void main(String[] args) {
 
         // creo un'immagine di prova
